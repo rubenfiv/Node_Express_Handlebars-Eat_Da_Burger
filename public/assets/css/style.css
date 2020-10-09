@@ -1,0 +1,33 @@
+html{
+    background-image: url("../image/burger.jpg");
+    background-size: cover;
+}
+h1{
+    background-color: lightsalmon;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 900;
+}
+h2{
+    background-color: black;
+    color: red;
+    font-size: 2.5em;
+    font-weight: 800;
+}
+/* #burgerName{
+    color: white;
+} */
+li{
+    text-align: left;
+    background-color: lightsalmon;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+label{
+    background-color: lightsalmon;
+    font-size: 2em;
+    font-weight: 700;
+}
+a{
+    font-size: .10em;
+}
